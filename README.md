@@ -119,10 +119,7 @@ I'm Fathimath Malaak Jaufar. I design and build websites and small tools, mostly
   </table>
   <img src="assets/activity.svg" alt="Contribution activity" width="100%" />
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reseachrandomv/reseachrandomv/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/reseachrandomv/reseachrandomv/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/reseachrandomv/reseachrandomv/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ## Connect
