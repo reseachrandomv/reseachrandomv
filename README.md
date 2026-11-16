@@ -19,5 +19,5 @@ I'm Fathimath Malaak Jaufar. I design and build websites and small tools, mostly
 
 ## Dhivehi & local
 
-- **[Liyun Dhivehi fonts](https://reseachrandomv.github.io/dhivehi-fonts/)** — Free, openly licensed Thaana fonts, with a live type tester, a Latin-to-Thaana keyboard and web CSS snippets.
-- **[Raajjé Digest](https://reseachrandomv.github.io/news/)** — A news site with local and world news, tech, science, courses and announcements, updated every 30 minutes.
+- **[Liyun Dhivehi fonts](https://reseachrandomv.github.io/liyun/)** — Free, openly licensed Thaana fonts, with a live type tester, a Latin-to-Thaana keyboard and web CSS snippets.
+- **[Raajjé Digest](https://reseachrandomv.github.io/raajje-digest/)** — A news site with local and world news, tech, science, courses and announcements, updated every 30 minutes.
