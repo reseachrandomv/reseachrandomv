@@ -16,6 +16,32 @@ I'm Fathimath Malaak Jaufar. I design and build websites and small tools, mostly
   <img src="https://img.shields.io/badge/GitHub%20Pages-E8ECF8?style=for-the-badge&logo=githubpages&logoColor=5865F2&labelColor=0B1020&color=12182C" alt="GitHub Pages" />
 </div>
 
+## GitHub Stats and Activity
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="assets/stats.svg" alt="GitHub Stats" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="assets/streak.svg" alt="Contribution Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="assets/languages.svg" alt="Most Used Languages" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="assets/calendar.svg" alt="Contribution calendar" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <img src="assets/activity.svg" alt="Contribution activity" width="100%" />
+  <br />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/reseachrandomv/reseachrandomv/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
 ## Featured work
 
 <table width="100%">
@@ -95,32 +121,6 @@ I'm Fathimath Malaak Jaufar. I design and build websites and small tools, mostly
     </td>
   </tr>
 </table>
-
-## GitHub Stats and Activity
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="assets/stats.svg" alt="GitHub Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="assets/streak.svg" alt="Contribution Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="assets/languages.svg" alt="Most Used Languages" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="assets/calendar.svg" alt="Contribution calendar" width="100%" />
-      </td>
-    </tr>
-  </table>
-  <img src="assets/activity.svg" alt="Contribution activity" width="100%" />
-  <br />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/reseachrandomv/reseachrandomv/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
 
 ## Connect
 
