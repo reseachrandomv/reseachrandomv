@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" role="img" aria-label="GitHub Stats">
+  <title>GitHub Stats</title>
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#12183A"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5865F2"/>
+      <stop offset="100%" stop-color="#A5B4FC"/>
+    </linearGradient>
+    <linearGradient id="areaFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5865F2" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#5865F2" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="topGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5865F2" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5865F2" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#5865F2" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .f { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; }
+    </style>
+    <clipPath id="cardClip">
+      <rect width="495" height="215" rx="16"/>
+    </clipPath>
+  </defs>
+  <rect width="495" height="215" rx="16" fill="url(#cardBg)" stroke="#5865F2" stroke-opacity="0.55" stroke-width="1.5"/>
+  <g clip-path="url(#cardClip)">
+  <rect x="28" y="0.75" width="439" height="2" rx="1" fill="url(#topGlow)"/>
+  <text class="f" x="22" y="32" fill="#5865F2" font-size="16" font-weight="700">GitHub Stats</text>
+
+  <g>
+    <text class="f" x="22" y="58" fill="#9AA3C2" font-size="12">Stars</text>
+    <text class="f" x="248" y="58" fill="#E8ECF8" font-size="13" font-weight="700" text-anchor="end">0</text>
+    <rect x="22" y="66" width="168" height="6" rx="3" fill="#1A2152"/>
+    <rect x="22" y="66" width="0.0" height="6" rx="3" fill="url(#barFill)">
+      <animate attributeName="width" from="0" to="0.0" dur="0.9s" begin="0.15s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <text class="f" x="22" y="88" fill="#9AA3C2" font-size="12">Commits (this year)</text>
+    <text class="f" x="248" y="88" fill="#E8ECF8" font-size="13" font-weight="700" text-anchor="end">152</text>
+    <rect x="22" y="96" width="168" height="6" rx="3" fill="#1A2152"/>
+    <rect x="22" y="96" width="102.1" height="6" rx="3" fill="url(#barFill)">
+      <animate attributeName="width" from="0" to="102.1" dur="0.9s" begin="0.23s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <text class="f" x="22" y="118" fill="#9AA3C2" font-size="12">Pull requests</text>
+    <text class="f" x="248" y="118" fill="#E8ECF8" font-size="13" font-weight="700" text-anchor="end">9</text>
+    <rect x="22" y="126" width="168" height="6" rx="3" fill="#1A2152"/>
+    <rect x="22" y="126" width="30.2" height="6" rx="3" fill="url(#barFill)">
+      <animate attributeName="width" from="0" to="30.2" dur="0.9s" begin="0.31s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <text class="f" x="22" y="148" fill="#9AA3C2" font-size="12">Issues</text>
+    <text class="f" x="248" y="148" fill="#E8ECF8" font-size="13" font-weight="700" text-anchor="end">21</text>
+    <rect x="22" y="156" width="168" height="6" rx="3" fill="#1A2152"/>
+    <rect x="22" y="156" width="141.1" height="6" rx="3" fill="url(#barFill)">
+      <animate attributeName="width" from="0" to="141.1" dur="0.9s" begin="0.39s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <text class="f" x="22" y="178" fill="#9AA3C2" font-size="12">Contributed to</text>
+    <text class="f" x="248" y="178" fill="#E8ECF8" font-size="13" font-weight="700" text-anchor="end">17</text>
+    <rect x="22" y="186" width="168" height="6" rx="3" fill="#1A2152"/>
+    <rect x="22" y="186" width="95.2" height="6" rx="3" fill="url(#barFill)">
+      <animate attributeName="width" from="0" to="95.2" dur="0.9s" begin="0.47s" fill="freeze"/>
+    </rect>
+  </g>
+  <g>
+    <circle cx="395" cy="122" r="52" fill="none" stroke="#1A2152" stroke-width="9"/>
+    <circle cx="395" cy="122" r="52" fill="none" stroke="#5865F2" stroke-width="9"
+            stroke-linecap="round" transform="rotate(-90 395 122)"
+            stroke-dasharray="163.36 326.73" stroke-dashoffset="0">
+      <animate attributeName="stroke-dasharray" from="0 326.73" to="163.36 326.73" dur="1.2s" fill="freeze"/>
+    </circle>
+    <text class="f" x="395" y="116" fill="#E8ECF8" font-size="26" font-weight="700" text-anchor="middle">B</text>
+    <text class="f" x="395" y="138" fill="#A5B4FC" font-size="11" text-anchor="middle">Rank</text>
+  </g>
+
+  </g>
+</svg>
