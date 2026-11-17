@@ -33,42 +33,42 @@
 
   <g>
     <text class="f" x="22" y="62" fill="#E8ECF8" font-size="13" font-weight="600">HTML</text>
-    <text class="f" x="473" y="62" fill="#A5B4FC" font-size="12" text-anchor="end">32.7%</text>
+    <text class="f" x="473" y="62" fill="#A5B4FC" font-size="12" text-anchor="end">31.9%</text>
     <rect x="22" y="70" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="70" width="147.6" height="8" rx="4" fill="#5865F2">
-      <animate attributeName="width" from="0" to="147.6" dur="0.9s" begin="0.15s" fill="freeze"/>
+    <rect x="22" y="70" width="143.7" height="8" rx="4" fill="#5865F2">
+      <animate attributeName="width" from="0" to="143.7" dur="0.9s" begin="0.15s" fill="freeze"/>
     </rect>
   </g>
   <g>
     <text class="f" x="22" y="90" fill="#E8ECF8" font-size="13" font-weight="600">JavaScript</text>
-    <text class="f" x="473" y="90" fill="#A5B4FC" font-size="12" text-anchor="end">28.4%</text>
+    <text class="f" x="473" y="90" fill="#A5B4FC" font-size="12" text-anchor="end">28.8%</text>
     <rect x="22" y="98" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="98" width="128.0" height="8" rx="4" fill="#7B85F5">
-      <animate attributeName="width" from="0" to="128.0" dur="0.9s" begin="0.23s" fill="freeze"/>
+    <rect x="22" y="98" width="129.7" height="8" rx="4" fill="#7B85F5">
+      <animate attributeName="width" from="0" to="129.7" dur="0.9s" begin="0.23s" fill="freeze"/>
     </rect>
   </g>
   <g>
     <text class="f" x="22" y="118" fill="#E8ECF8" font-size="13" font-weight="600">CSS</text>
-    <text class="f" x="473" y="118" fill="#A5B4FC" font-size="12" text-anchor="end">17.9%</text>
+    <text class="f" x="473" y="118" fill="#A5B4FC" font-size="12" text-anchor="end">20.0%</text>
     <rect x="22" y="126" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="126" width="80.5" height="8" rx="4" fill="#9AA3FB">
-      <animate attributeName="width" from="0" to="80.5" dur="0.9s" begin="0.31s" fill="freeze"/>
+    <rect x="22" y="126" width="90.3" height="8" rx="4" fill="#9AA3FB">
+      <animate attributeName="width" from="0" to="90.3" dur="0.9s" begin="0.31s" fill="freeze"/>
     </rect>
   </g>
   <g>
     <text class="f" x="22" y="146" fill="#E8ECF8" font-size="13" font-weight="600">TypeScript</text>
-    <text class="f" x="473" y="146" fill="#A5B4FC" font-size="12" text-anchor="end">13.8%</text>
+    <text class="f" x="473" y="146" fill="#A5B4FC" font-size="12" text-anchor="end">12.7%</text>
     <rect x="22" y="154" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="154" width="62.4" height="8" rx="4" fill="#A5B4FC">
-      <animate attributeName="width" from="0" to="62.4" dur="0.9s" begin="0.39s" fill="freeze"/>
+    <rect x="22" y="154" width="57.4" height="8" rx="4" fill="#A5B4FC">
+      <animate attributeName="width" from="0" to="57.4" dur="0.9s" begin="0.39s" fill="freeze"/>
     </rect>
   </g>
   <g>
     <text class="f" x="22" y="174" fill="#E8ECF8" font-size="13" font-weight="600">Python</text>
-    <text class="f" x="473" y="174" fill="#A5B4FC" font-size="12" text-anchor="end">7.2%</text>
+    <text class="f" x="473" y="174" fill="#A5B4FC" font-size="12" text-anchor="end">6.6%</text>
     <rect x="22" y="182" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="182" width="32.5" height="8" rx="4" fill="#C7D2FE">
-      <animate attributeName="width" from="0" to="32.5" dur="0.9s" begin="0.47s" fill="freeze"/>
+    <rect x="22" y="182" width="29.9" height="8" rx="4" fill="#C7D2FE">
+      <animate attributeName="width" from="0" to="29.9" dur="0.9s" begin="0.47s" fill="freeze"/>
     </rect>
   </g>
   <text class="f" x="22" y="200" fill="#9AA3C2" font-size="10">From public, non-fork repositories</text>
