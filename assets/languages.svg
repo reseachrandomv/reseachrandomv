@@ -33,26 +33,26 @@
 
   <g>
     <text class="f" x="22" y="62" fill="#E8ECF8" font-size="13" font-weight="600">HTML</text>
-    <text class="f" x="473" y="62" fill="#A5B4FC" font-size="12" text-anchor="end">31.9%</text>
+    <text class="f" x="473" y="62" fill="#A5B4FC" font-size="12" text-anchor="end">31.8%</text>
     <rect x="22" y="70" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="70" width="143.7" height="8" rx="4" fill="#5865F2">
-      <animate attributeName="width" from="0" to="143.7" dur="0.9s" begin="0.15s" fill="freeze"/>
+    <rect x="22" y="70" width="143.5" height="8" rx="4" fill="#5865F2">
+      <animate attributeName="width" from="0" to="143.5" dur="0.9s" begin="0.15s" fill="freeze"/>
     </rect>
   </g>
   <g>
     <text class="f" x="22" y="90" fill="#E8ECF8" font-size="13" font-weight="600">JavaScript</text>
     <text class="f" x="473" y="90" fill="#A5B4FC" font-size="12" text-anchor="end">28.8%</text>
     <rect x="22" y="98" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="98" width="129.7" height="8" rx="4" fill="#7B85F5">
-      <animate attributeName="width" from="0" to="129.7" dur="0.9s" begin="0.23s" fill="freeze"/>
+    <rect x="22" y="98" width="129.8" height="8" rx="4" fill="#7B85F5">
+      <animate attributeName="width" from="0" to="129.8" dur="0.9s" begin="0.23s" fill="freeze"/>
     </rect>
   </g>
   <g>
     <text class="f" x="22" y="118" fill="#E8ECF8" font-size="13" font-weight="600">CSS</text>
     <text class="f" x="473" y="118" fill="#A5B4FC" font-size="12" text-anchor="end">20.0%</text>
     <rect x="22" y="126" width="451" height="8" rx="4" fill="#1A2152"/>
-    <rect x="22" y="126" width="90.3" height="8" rx="4" fill="#9AA3FB">
-      <animate attributeName="width" from="0" to="90.3" dur="0.9s" begin="0.31s" fill="freeze"/>
+    <rect x="22" y="126" width="90.4" height="8" rx="4" fill="#9AA3FB">
+      <animate attributeName="width" from="0" to="90.4" dur="0.9s" begin="0.31s" fill="freeze"/>
     </rect>
   </g>
   <g>
