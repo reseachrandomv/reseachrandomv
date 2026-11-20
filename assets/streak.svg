@@ -33,23 +33,23 @@
 
   <g text-anchor="middle">
 
-    <text class="f" x="85" y="108" fill="#E8ECF8" font-size="32" font-weight="700">259</text>
+    <text class="f" x="85" y="108" fill="#E8ECF8" font-size="32" font-weight="700">260</text>
     <text class="f" x="85" y="138" fill="#5865F2" font-size="12" font-weight="600">Total contributions</text>
-    <text class="f" x="85" y="158" fill="#9AA3C2" font-size="11">Oct 1 – Nov 19</text>
+    <text class="f" x="85" y="158" fill="#9AA3C2" font-size="11">Oct 1 – Nov 20</text>
   </g>
   <g text-anchor="middle">
     <circle cx="247" cy="100" r="46" fill="none" stroke="#5865F2" stroke-opacity="0.35" stroke-width="2">
       <animate attributeName="stroke-opacity" values="0.25;0.8;0.25" dur="3s" repeatCount="indefinite"/>
     </circle>
-    <text class="f" x="247" y="108" fill="#E8ECF8" font-size="32" font-weight="700">23</text>
+    <text class="f" x="247" y="108" fill="#E8ECF8" font-size="32" font-weight="700">24</text>
     <text class="f" x="247" y="138" fill="#5865F2" font-size="12" font-weight="600">Current streak</text>
-    <text class="f" x="247" y="158" fill="#9AA3C2" font-size="11">Oct 28 – Nov 19</text>
+    <text class="f" x="247" y="158" fill="#9AA3C2" font-size="11">Oct 28 – Nov 20</text>
   </g>
   <g text-anchor="middle">
 
-    <text class="f" x="410" y="108" fill="#E8ECF8" font-size="32" font-weight="700">23</text>
+    <text class="f" x="410" y="108" fill="#E8ECF8" font-size="32" font-weight="700">24</text>
     <text class="f" x="410" y="138" fill="#5865F2" font-size="12" font-weight="600">Longest streak</text>
-    <text class="f" x="410" y="158" fill="#9AA3C2" font-size="11">Oct 28 – Nov 19</text>
+    <text class="f" x="410" y="158" fill="#9AA3C2" font-size="11">Oct 28 – Nov 20</text>
   </g>
   <line x1="165" y1="62" x2="165" y2="180" stroke="#5865F2" stroke-opacity="0.22"/>
   <line x1="330" y1="62" x2="330" y2="180" stroke="#5865F2" stroke-opacity="0.22"/>
