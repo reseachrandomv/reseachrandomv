@@ -92,7 +92,8 @@
   <rect x="163.0" y="106.4" width="14.2" height="14.2" rx="3" fill="#5865F2"/>
   <rect x="163.0" y="124.6" width="14.2" height="14.2" rx="3" fill="#2A3170"/>
   <rect x="163.0" y="142.7" width="14.2" height="14.2" rx="3" fill="#2A3170"/>
-  <rect x="163.0" y="160.9" width="14.2" height="14.2" rx="3" fill="#2A3170"/>
+  <rect x="163.0" y="160.9" width="14.2" height="14.2" rx="3" fill="#3E4BB3"/>
+  <rect x="181.1" y="52.0" width="14.2" height="14.2" rx="3" fill="#2A3170"/>
   <text class="f" x="36" y="201" fill="#9AA3C2" font-size="9">Less</text>
   <rect x="64" y="192" width="10" height="10" rx="2" fill="#161B33"/>
   <rect x="76" y="192" width="10" height="10" rx="2" fill="#2A3170"/>
