@@ -41,10 +41,10 @@
   </g>
   <g>
     <text class="f" x="22" y="88" fill="#9AA3C2" font-size="12">Commits (this year)</text>
-    <text class="f" x="248" y="88" fill="#E8ECF8" font-size="13" font-weight="700" text-anchor="end">219</text>
+    <text class="f" x="248" y="88" fill="#E8ECF8" font-size="13" font-weight="700" text-anchor="end">220</text>
     <rect x="22" y="96" width="168" height="6" rx="3" fill="#1A2152"/>
-    <rect x="22" y="96" width="147.2" height="6" rx="3" fill="url(#barFill)">
-      <animate attributeName="width" from="0" to="147.2" dur="0.9s" begin="0.23s" fill="freeze"/>
+    <rect x="22" y="96" width="147.8" height="6" rx="3" fill="url(#barFill)">
+      <animate attributeName="width" from="0" to="147.8" dur="0.9s" begin="0.23s" fill="freeze"/>
     </rect>
   </g>
   <g>
